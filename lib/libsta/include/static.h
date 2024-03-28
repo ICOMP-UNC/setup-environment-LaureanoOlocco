@@ -10,3 +10,4 @@
  * @return int: length of the message
 */
 int static_lib_function(char *msg);
+
